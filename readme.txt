@@ -1,0 +1,1 @@
+dot -Tpng Simplenode_Graph.gv -o Simplenode_Graph.png
